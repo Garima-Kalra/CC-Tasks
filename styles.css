@@ -57,7 +57,7 @@ body{
   }
 @font-face {
     font-family: 'Merriweather Regular'; 
-    src: url('/Users/garimakalra/Downloads/Merriweather/Merriweather Regular/Merriweather Regular.ttf'); 
+    src: url('Garima-Kalra/CC-Tasks/Merriweather'); 
 }
   body{
     margin: 0;
