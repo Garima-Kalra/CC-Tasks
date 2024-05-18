@@ -4,7 +4,7 @@
   }
 @font-face {
     font-family: 'Merriweather Regular'; 
-    src: url('/Users/garimakalra/Downloads/Merriweather/Merriweather Regular/Merriweather Regular.ttf'); 
+    src: url('Garima-Kalra/CC_Tasks/Merriweather'); 
 }
   body{
     margin: 0;
@@ -113,7 +113,7 @@
     margin-left: 20px;
     margin-top: 53px;
     margin-right: 19px;
-    background: url("reading-newspaper-1.jpg") no-repeat center;
+    background: url("images/reading-newspaper-1.jpg") no-repeat center;
     background-size: cover;
 }
 .centre1 {
@@ -124,7 +124,7 @@
     margin-top: 53px;
     margin-right: 19px;
     padding-left: 10px;
-    background: url("most-followed-person-1.jpg") no-repeat center;
+    background: url("images/most-followed-person-1.jpg") no-repeat center;
     background-size: cover;
     
 }
@@ -147,7 +147,7 @@
     width: 257px;
     object-fit: cover;
     border-radius: 5px;
-    background: url("best-type-coffee-1.jpg") no-repeat center;
+    background: url("images/best-type-coffee-1.jpg") no-repeat center;
     background-size: cover;
 }
 .col2 {
@@ -156,7 +156,7 @@
     object-fit: cover;
     border-radius: 5px;
     margin-top: 30px;
-    background: url("practising-gratude-1.jpg") no-repeat center;
+    background: url("") no-repeat center;
     background-size: cover;
 }
 .right{
